@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+#Automated greeter.
+
+echo "Hi Leila"
