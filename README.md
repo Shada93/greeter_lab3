@@ -1,1 +1,1 @@
-Automated greeter for Leila. 
+Automated greeter for Leia. 
